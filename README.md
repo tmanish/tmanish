@@ -1,54 +1,34 @@
-# Hi, I’m Manish 👋
+## Hi, I’m Manish 👋
 
-I’m a **product designer + builder** working across **AI systems, FinTech, enterprise UX, and human-centered product design**.
+I’m a **product designer** working across **AI systems, FinTech, enterprise UX, and human-centered product design**.
 
-For 15+ years, I’ve designed complex enterprise products, much of it for major financial institutions — the kind of systems where **clarity, trust, control, and accountability** are not nice-to-haves; they are the product.
+For 15+ years, I’ve designed complex enterprise products, much of it for major financial institutions — systems where **clarity, trust, control, and accountability** matter.
 
-Lately, I’ve been exploring the human layer of autonomous systems:  
-how people delegate to AI agents, supervise them, intervene when needed, and trust what happens next.
-
-This GitHub is my product lab: a mix of shipped work, concept systems, prototypes, and practical experiments.
+Lately, I’ve been exploring the human layer of autonomous systems: how people delegate to AI agents, supervise them, intervene when needed, and trust what happens next.
 
 ---
 
-## 🔭 Current direction
+### 🧠 Concept systems
 
-I’m especially interested in:
+Self-initiated explorations of agentic UX. Ready to develop blueprints based on my custom design system.  
+The repos may be private, but the links open public prototypes and case studies.
 
-- 🤖 **Agentic UX** — delegation, oversight, approvals, escalation, and recovery
-- 🛡️ **AI governance** — making autonomous systems observable, accountable, and controllable
-- 🧩 **Enterprise decision design** — turning complex workflows into trusted product experiences
-- 🧪 **Builder experiments** — small tools, prototypes, and product ideas shipped end-to-end
+- 🦅 **[Kestrel](https://tmanish.github.io/kestrel/)** · Human-in-the-loop UX for autonomous systems
 
----
+- 🦉 **[Falcon](https://tmanish.github.io/falcon/)** · Agent governance UX
 
-## 🧠 Concept systems
-
-Self-initiated explorations of agentic UX.  
-The repos may be private, but the links below open public prototypes and case studies.
-
-- 🦅 **[Kestrel](https://tmanish.github.io/kestrel/)** · Human-in-the-loop UX for autonomous systems  
-- 🦉 **[Falcon](https://tmanish.github.io/falcon/)** · Agent governance UX  
-- 🪶 **[Osprey](https://tmanish.github.io/osprey/)** · User-centered agent orchestration  
+- 🪶 **[Osprey](https://tmanish.github.io/osprey/)** · User-centered agent orchestration
 
 ---
 
-## 🚀 Shipped product
+### 🚀 Shipped product
 
-- 📈 **[Raven Tracker](https://raventracker.app)** · A live asset-tracking product for BTC, Gold, Silver, SPY, and QQQ, powered by my custom ai/ml algos
-
----
-
-## 🧰 Public experiments
-
-Some of my public repos are experiments around browser-based tools, UI concepts, sensing interfaces, and product prototypes.
-
-You’ll find those pinned/unpinned below 👇
+- 📈 **[Raven Tracker](https://raventracker.app)** · A live asset-tracking product for BTC, Gold, Silver, QQQ, and SPY, powered by custom ai/ml algos
 
 ---
 
-## 🧭 Through line
+### 🧰 Public design & build experiments
 
-I like building products where powerful systems become **understandable, controllable, and useful** to real people.
+I also keep public experiments around browser-based tools, UI concepts, sensing interfaces, and product prototypes.
 
-**Product design** · **AI systems** · **Enterprise UX** · **Interface architecture** · **Prototyping** · **Practical experimentation**
+You’ll find those pinned below 👇
