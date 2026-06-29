@@ -1,6 +1,6 @@
-## Welcome to my lab 👋
+## Hi, I'm Manish 👋
 
-I’m **Manish**, a **senior product designer** exploring the human side of AI systems.
+Welcome to my **Lab**! I am a **senior product designer** exploring the human side of AI systems.
 
 This space is where I prototype ideas, build open-source products, test interaction models, and turn fuzzy questions about agentic systems into working concepts. The work moves across **AI systems, FinTech, enterprise UX, and human-centered product design**.
 
