@@ -10,7 +10,7 @@ Lately, I’ve been exploring the human layer of autonomous systems: how people 
 
 ### 🧠 Human-centered agentic UX
 
-Self-initiated explorations of how people delegate to, supervise, and trust AI agents. Designed from a professional UX perspective as ready-to-develop product blueprints.
+Self-initiated design concepts of how people delegate to, supervise, and trust AI agents. Based on my custom design system. Ready-to-develop product blueprints.
 
 The repos may be private, but the links open public prototypes and case studies.
 
