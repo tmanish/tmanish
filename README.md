@@ -1,20 +1,20 @@
-## Hi, I'm Manish 👋
+<p align="center">
+  <img src="./assets/manishs-lab.png" alt="Manish's Lab" width="420">
+</p>
 
-Welcome to my **Lab**! I am a **senior product designer** exploring the human side of AI systems.
+## Hi, I’m Manish 👋
 
-This space is where I prototype ideas, build open-source products, test interaction models, and turn fuzzy questions about agentic systems into working concepts. The work moves across **AI systems, FinTech, enterprise UX, and human-centered product design**.
+I’m a **product designer** working across **AI systems, FinTech, enterprise UX, and human-centered product design**.
 
-A lot of my background comes from designing complex products for major financial institutions, so the lens here is practical: **clarity, trust, control, and accountability**.
+For 15+ years, I’ve designed complex enterprise products, much of it for major financial institutions. These are systems where **clarity, trust, control, and accountability** matter.
 
-Lately, I’ve been focused on the human layer of autonomous systems: how people delegate to AI agents, supervise them, intervene when needed, and trust what happens next.
-
-Some of these are polished prototypes. Some are full open-source products. Some are product blueprints. Some are experiments from the bench.
+Lately, I’ve been exploring the human layer of autonomous systems: how people delegate to AI agents, supervise them, intervene when needed, and trust what happens next.
 
 ---
 
 ### 🧠 Human-centered agentic UX
 
-Self-initiated design concepts exploring how people delegate to, supervise, and trust AI agents. Based on my custom design system. Built as ready-to-develop product blueprints.
+Self-initiated explorations of how people delegate to, supervise, and trust AI agents. Designed from a professional UX perspective as ready-to-develop product blueprints.
 
 The repos may be private, but the links open public prototypes and case studies.
 
@@ -28,14 +28,12 @@ The repos may be private, but the links open public prototypes and case studies.
 
 ### 🚀 Shipped product
 
-- 📈 **[Raven Tracker](https://raventracker.app)** - A live asset-tracking product for BTC, Gold, Silver, QQQ, and SPY, powered by custom AI/ML algos
+- 📈 **[Raven Tracker](https://raventracker.app)** - A live asset-tracking product for BTC, Gold, Silver, QQQ, and SPY, powered by custom AI/ML algorithms
 
 ---
 
-### 🛠️ Open-source products, tools & skills
+### 🧰 Public design & build experiments
 
-I also build public projects around browser-based tools, UI concepts, sensing interfaces, Claude Skills, and practical AI workflows.
-
-Some are lightweight experiments. Some are full open-source products. Some are reusable systems that package repeated work into something more useful.
+I also keep public experiments around browser-based tools, UI concepts, sensing interfaces, and product prototypes.
 
 You’ll find those pinned below and on the **Repositories** tab 👇
