@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/manishs-lab.png" alt="Manish's Lab" width="300">
+  <img src="./assets/manishs-lab.png" alt="Manish's Lab" width="250">
 </p>
 
 ## Hi, I’m Manish 👋
