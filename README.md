@@ -22,12 +22,7 @@ Self-initiated product concepts designed as ready-to-build blueprints. Each one 
 
 <table>
 <tr>
-<td width="52%">
-<a href="https://tmanish.github.io/kestrel/">
-<img src="https://tmanish.github.io/kestrel/docs/assets/screen-dashboard.png" alt="Kestrel oversight dashboard" width="100%">
-</a>
-</td>
-<td width="48%">
+<td width="60%">
 
 #### 🦅 [Kestrel](https://tmanish.github.io/kestrel/)
 **One human supervising one agent that moves real money.**
@@ -39,15 +34,15 @@ You cannot audit a chat window. Kestrel designs the verification layer instead: 
 [Prototype](https://tmanish.github.io/kestrel/docs/) · [Case study](https://tmanish.github.io/kestrel/CASE-STUDY.html)
 
 </td>
+<td width="40%">
+<a href="https://tmanish.github.io/kestrel/">
+<img src="https://tmanish.github.io/kestrel/docs/assets/screen-dashboard.png" alt="Kestrel oversight dashboard" width="100%">
+</a>
+</td>
 </tr>
 
 <tr>
-<td width="52%">
-<a href="https://tmanish.github.io/falcon/">
-<img src="https://tmanish.github.io/falcon/assets/screen-dashboard.png" alt="Falcon fleet governance view" width="100%">
-</a>
-</td>
-<td width="48%">
+<td width="60%">
 
 #### 🦉 [Falcon](https://tmanish.github.io/falcon/)
 **One organization governing a fleet of agents.**
@@ -59,15 +54,15 @@ It includes working approval queues, audit trails, live state, blast-radius diff
 [Prototype](https://tmanish.github.io/falcon/Falcon_Agent_Governance.html) · [Case study](https://tmanish.github.io/falcon/CASE-STUDY.html)
 
 </td>
+<td width="40%">
+<a href="https://tmanish.github.io/falcon/">
+<img src="https://tmanish.github.io/falcon/assets/screen-dashboard.png" alt="Falcon fleet governance view" width="100%">
+</a>
+</td>
 </tr>
 
 <tr>
-<td width="52%">
-<a href="https://tmanish.github.io/osprey/">
-<img src="https://tmanish.github.io/osprey/docs/assets/screen-monitor.png" alt="Osprey orchestration monitor" width="100%">
-</a>
-</td>
-<td width="48%">
+<td width="60%">
 
 #### 🪶 [Osprey](https://tmanish.github.io/osprey/)
 **Building and running teams of agents.**
@@ -78,6 +73,11 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 
 [Prototype](https://tmanish.github.io/osprey/Osprey.html)
 
+</td>
+<td width="40%">
+<a href="https://tmanish.github.io/osprey/">
+<img src="https://tmanish.github.io/osprey/docs/assets/screen-monitor.png" alt="Osprey orchestration monitor" width="100%">
+</a>
 </td>
 </tr>
 </table>
