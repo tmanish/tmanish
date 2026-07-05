@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./assets/manishs-lab.png" alt="Manish's Lab" width="275">
 </p>
+
 ---
 
 ### Hi, I'm Manish 👋
