@@ -1,8 +1,9 @@
 <p align="center">
   <img src="./assets/manishs-lab.png" alt="Manish's Lab" width="275">
 </p>
+---
 
-## Hi, I'm Manish 👋
+### Hi, I'm Manish 👋
 
 I'm a **product designer** working across **AI systems, FinTech, enterprise UX, and human-centered product design**.
 
