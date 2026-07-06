@@ -106,5 +106,6 @@ Public work across product design, AI tooling, interaction models, and software 
 Reusable Claude skills built from real workflows. This is where I am exploring how prompts become repeatable, inspectable, tool-like systems.
 
 - 🧩 **[prompt-to-loop](https://github.com/tmanish/prompt-to-loop)**: converts any build prompt into a structured agentic loop with elicitation, verification, and stop conditions. Explainer primer: [Loop Engineering Lab](https://tmanish.github.io/prompt-to-loop/).
+- 🧩 **[dispute-charge](https://github.com/tmanish/dispute-charge)**: turns a messy billing complaint into a clean, evidence-backed dispute case. Gathers the facts, checks them against the charge, and drafts a ready-to-send resolution.
 
 Full set pinned below and on the **Repositories** tab 👇
