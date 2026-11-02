@@ -86,7 +86,17 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 
 ---
 
-### 🚀 Shipped product
+### 🚀 Products · Shipped & upcoming
+
+**MacOS apps**
+
+- **[SwiftEdit](https://github.com/tmanish/swift-edit-releases)**: a fast, native editor for text, code, and Markdown. Open a file and start working, with no project setup or account required.
+- **[Top Shelf](https://github.com/tmanish/top-shelf-releases)**: photo culling for high-burst shoots. Review straight from a memory card, choose your best frames, and make verified copies of the keepers.
+- **BaseISO** · Coming soon
+- **Omnicode** · Coming soon
+- **Himalaya2** · Coming soon
+
+**Web app**
 
 - 📈 **[Raven Tracker](https://raventracker.app)**: a live, in-production asset-tracking product for BTC, Gold, Silver, QQQ, and SPY, powered by custom AI/ML algorithms.
 
