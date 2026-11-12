@@ -93,11 +93,13 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 <table>
 <tr>
 <td width="60%">
+<h5>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmanish/swift-edit-releases/main/assets/swiftedit-icon-dark.png">
   <img src="https://raw.githubusercontent.com/tmanish/swift-edit-releases/main/assets/swiftedit-icon.png" alt="" width="52" height="52">
-</picture>
-<h5><a href="https://github.com/tmanish/swift-edit-releases">SwiftEdit</a></h5>
+</picture><br>
+<a href="https://github.com/tmanish/swift-edit-releases">SwiftEdit</a>
+</h5>
 <p>A native editor for text, code, and Markdown. Edit files directly and preview Markdown alongside your writing.</p>
 <ul>
   <li>Navigate Markdown by heading and export it as a PDF.</li>
@@ -114,11 +116,13 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 </tr>
 <tr>
 <td width="60%">
+<h5>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmanish/top-shelf-releases/main/assets/topshelf-icon-dark.png">
   <img src="https://raw.githubusercontent.com/tmanish/top-shelf-releases/main/assets/topshelf-icon.png" alt="" width="52" height="52">
-</picture>
-<h5><a href="https://github.com/tmanish/top-shelf-releases">Top Shelf</a></h5>
+</picture><br>
+<a href="https://github.com/tmanish/top-shelf-releases">Top Shelf</a>
+</h5>
 <p>Review photo bursts straight from a memory card, pick the best frames, and make verified copies of your selects.</p>
 <ul>
   <li>Group similar frames automatically and see suggested picks based on sharpness, open eyes, and clipped highlights.</li>
@@ -135,11 +139,13 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 </tr>
 <tr>
 <td width="60%">
+<h5>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmanish/base-iso-releases/main/assets/baseiso-icon-dark.png">
   <img src="https://raw.githubusercontent.com/tmanish/base-iso-releases/main/assets/baseiso-icon.png" alt="" width="52" height="52">
-</picture>
-<h5><a href="https://github.com/tmanish/base-iso-releases">BaseISO</a></h5>
+</picture><br>
+<a href="https://github.com/tmanish/base-iso-releases">BaseISO</a>
+</h5>
 <p>A free RAW and JPEG photo editor with adjustable presets, smart masks, and on-device AI noise reduction.</p>
 <ul>
   <li>Start with 38 adjustable looks across seven collections.</li>
@@ -161,8 +167,10 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 <table>
 <tr>
 <td width="60%">
-<img src="./assets/products/raven-tracker-icon.png" alt="" width="52" height="52">
-<h5><a href="https://raventracker.app">Raven Tracker</a></h5>
+<h5>
+<img src="./assets/products/raven-tracker-icon.png" alt="" width="52" height="52"><br>
+<a href="https://raventracker.app">Raven Tracker</a>
+</h5>
 <p>Track Bitcoin, gold, silver, QQQ, and SPY with live charts and algorithmic signals.</p>
 <ul>
   <li>See how three longer-term strategies contribute to each signal.</li>
