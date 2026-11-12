@@ -92,7 +92,7 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 
 - **[SwiftEdit](https://github.com/tmanish/swift-edit-releases)**: a fast, native editor for text, code, and Markdown. Open a file and start working, with no project setup or account required.
 - **[Top Shelf](https://github.com/tmanish/top-shelf-releases)**: photo culling for high-burst shoots. Review straight from a memory card, choose your best frames, and make verified copies of the keepers.
-- **BaseISO** · Coming soon
+- **[BaseISO](https://github.com/tmanish/base-iso-releases)** — a free RAW and JPEG photo editor with adjustable presets, smart masks, and on-device AI noise reduction.
 - **Omnicode** · Coming soon
 - **Himalaya2** · Coming soon
 
