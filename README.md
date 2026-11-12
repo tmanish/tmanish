@@ -86,19 +86,83 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 
 ---
 
-### 🚀 Products · Shipped & upcoming
+### ⭐ Featured · Shipped products
 
-**MacOS apps**
+#### MacOS apps
 
-- **[SwiftEdit](https://github.com/tmanish/swift-edit-releases)**: a fast, native editor for text, code, and Markdown. Open a file and start working, with no project setup or account required.
-- **[Top Shelf](https://github.com/tmanish/top-shelf-releases)**: photo culling for high-burst shoots. Review straight from a memory card, choose your best frames, and make verified copies of the keepers.
-- **[BaseISO](https://github.com/tmanish/base-iso-releases)** — a free RAW and JPEG photo editor with adjustable presets, smart masks, and on-device AI noise reduction.
-- **Omnicode** · Coming soon
-- **Himalaya2** · Coming soon
+<table>
+<tr>
+<td width="60%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmanish/swift-edit-releases/main/assets/swiftedit-icon-dark.png">
+  <img src="https://raw.githubusercontent.com/tmanish/swift-edit-releases/main/assets/swiftedit-icon.png" alt="" width="52" height="52">
+</picture>
+<h5><a href="https://github.com/tmanish/swift-edit-releases">SwiftEdit</a></h5>
+<p>A native editor for text, code, and Markdown. Edit files directly and preview Markdown alongside your writing.</p>
+<p><a href="https://github.com/tmanish/swift-edit-releases/releases/latest">Download</a> · <a href="https://github.com/tmanish/swift-edit-releases/blob/main/HELP.md">User guide</a></p>
+</td>
+<td width="40%">
+<a href="./assets/products/swiftedit-screenshot.png">
+  <img src="./assets/products/swiftedit-screenshot.png" alt="SwiftEdit split view with Markdown source beside the formatted preview" width="100%">
+</a>
+</td>
+</tr>
+<tr>
+<td width="60%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmanish/top-shelf-releases/main/assets/topshelf-icon-dark.png">
+  <img src="https://raw.githubusercontent.com/tmanish/top-shelf-releases/main/assets/topshelf-icon.png" alt="" width="52" height="52">
+</picture>
+<h5><a href="https://github.com/tmanish/top-shelf-releases">Top Shelf</a></h5>
+<p>Review photo bursts straight from a memory card, pick the best frames, and make verified copies of your selects.</p>
+<p><a href="https://github.com/tmanish/top-shelf-releases/releases/latest">Download</a> · <a href="https://github.com/tmanish/top-shelf-releases/blob/main/HELP.md">User guide</a></p>
+</td>
+<td width="40%">
+<a href="./assets/products/top-shelf-screenshot.png">
+  <img src="./assets/products/top-shelf-screenshot.png" alt="Top Shelf photo grid showing similar shots, picks, and camera details" width="100%">
+</a>
+</td>
+</tr>
+<tr>
+<td width="60%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmanish/base-iso-releases/main/assets/baseiso-icon-dark.png">
+  <img src="https://raw.githubusercontent.com/tmanish/base-iso-releases/main/assets/baseiso-icon.png" alt="" width="52" height="52">
+</picture>
+<h5><a href="https://github.com/tmanish/base-iso-releases">BaseISO</a></h5>
+<p>A free RAW and JPEG photo editor with adjustable presets, smart masks, and on-device AI noise reduction.</p>
+<p><a href="https://github.com/tmanish/base-iso-releases/releases/latest">Download</a> · <a href="https://github.com/tmanish/base-iso-releases#editing">Editing features</a></p>
+</td>
+<td width="40%">
+<a href="https://github.com/tmanish/base-iso-releases/blob/main/assets/baseiso-screenshot.png">
+  <img src="https://raw.githubusercontent.com/tmanish/base-iso-releases/main/assets/baseiso-screenshot.png" alt="BaseISO editing workspace with presets, RAW controls, and a photo preview" width="100%">
+</a>
+</td>
+</tr>
+</table>
 
-**Web app**
+#### Web app
 
-- 📈 **[Raven Tracker](https://raventracker.app)**: a live, in-production asset-tracking product for BTC, Gold, Silver, QQQ, and SPY, powered by custom AI/ML algorithms.
+<table>
+<tr>
+<td width="60%">
+<img src="./assets/products/raven-tracker-icon.png" alt="" width="52" height="52">
+<h5><a href="https://raventracker.app">Raven Tracker</a></h5>
+<p>Track Bitcoin, gold, silver, QQQ, and SPY with live charts and algorithmic signals.</p>
+<p><a href="https://raventracker.app">Open app</a></p>
+</td>
+<td width="40%">
+<a href="./assets/products/raven-tracker-screenshot.png">
+  <img src="./assets/products/raven-tracker-screenshot.png" alt="Raven Tracker Bitcoin dashboard showing a price chart and signal history" width="100%">
+</a>
+</td>
+</tr>
+</table>
+
+#### Coming soon · MacOS
+
+- **Omnicode**
+- **Himalaya2**
 
 ---
 
