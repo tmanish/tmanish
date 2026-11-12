@@ -106,7 +106,7 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 
 Public work across product design, AI tooling, interaction models, and software builds.
 
-**Products & tools**
+**Experimental tools**
 - 🧩 **[Raven Suite](https://github.com/tmanish/raven-suite)**: six single-file browser apps that work as a lightweight Office and Figma alternative: word processor, PDF editor, spreadsheet, slides, email builder, and vector design tool. Client-side only, nothing leaves your device.
 - 🧩 **[Raven Scope](https://github.com/tmanish/raven-scope)**: turns the WiFi you already have into live motion, presence, and through-wall radar. Zero extra hardware, zero dependencies beyond Python's standard library.
 - 🧩 **[Merlin Touchless Interface](https://github.com/tmanish/merlin-touchless-interface)**: control a screen with your eyes and a pinch. No mouse, no touch, no special hardware beyond a webcam.
