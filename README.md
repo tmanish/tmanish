@@ -99,6 +99,11 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 </picture>
 <h5><a href="https://github.com/tmanish/swift-edit-releases">SwiftEdit</a></h5>
 <p>A native editor for text, code, and Markdown. Edit files directly and preview Markdown alongside your writing.</p>
+<ul>
+  <li>Navigate Markdown by heading and export it as a PDF.</li>
+  <li>Get syntax highlighting for code and search across an entire folder.</li>
+  <li>Preserve file encoding and line endings, and recover unsaved edits after a crash.</li>
+</ul>
 <p><a href="https://github.com/tmanish/swift-edit-releases/releases/latest">Download</a> · <a href="https://github.com/tmanish/swift-edit-releases/blob/main/HELP.md">User guide</a></p>
 </td>
 <td width="40%">
@@ -115,6 +120,11 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 </picture>
 <h5><a href="https://github.com/tmanish/top-shelf-releases">Top Shelf</a></h5>
 <p>Review photo bursts straight from a memory card, pick the best frames, and make verified copies of your selects.</p>
+<ul>
+  <li>Group similar frames automatically and see suggested picks based on sharpness, open eyes, and clipped highlights.</li>
+  <li>Compare shots side by side with synchronized zoom.</li>
+  <li>Carry ratings and keywords into Lightroom or Capture One while keeping originals untouched.</li>
+</ul>
 <p><a href="https://github.com/tmanish/top-shelf-releases/releases/latest">Download</a> · <a href="https://github.com/tmanish/top-shelf-releases/blob/main/HELP.md">User guide</a></p>
 </td>
 <td width="40%">
@@ -131,6 +141,11 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 </picture>
 <h5><a href="https://github.com/tmanish/base-iso-releases">BaseISO</a></h5>
 <p>A free RAW and JPEG photo editor with adjustable presets, smart masks, and on-device AI noise reduction.</p>
+<ul>
+  <li>Start with 38 adjustable looks across seven collections.</li>
+  <li>Develop RAW photos with curves and color grading, then apply edits across a shoot.</li>
+  <li>Edit straight from your folders and drives, with no import or account required.</li>
+</ul>
 <p><a href="https://github.com/tmanish/base-iso-releases/releases/latest">Download</a> · <a href="https://github.com/tmanish/base-iso-releases#editing">Editing features</a></p>
 </td>
 <td width="40%">
@@ -149,6 +164,10 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 <img src="./assets/products/raven-tracker-icon.png" alt="" width="52" height="52">
 <h5><a href="https://raventracker.app">Raven Tracker</a></h5>
 <p>Track Bitcoin, gold, silver, QQQ, and SPY with live charts and algorithmic signals.</p>
+<ul>
+  <li>See how three longer-term strategies contribute to each signal.</li>
+  <li>Compare past signals with price history and explore candlestick charts with technical indicators.</li>
+</ul>
 <p><a href="https://raventracker.app">Open app</a></p>
 </td>
 <td width="40%">
@@ -170,7 +189,8 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 
 Public work across product design, AI tooling, interaction models, and software builds.
 
-**Experimental tools**
+#### 🧪 Experimental tools
+
 - 🧩 **[Raven Suite](https://github.com/tmanish/raven-suite)**: six single-file browser apps that work as a lightweight Office and Figma alternative: word processor, PDF editor, spreadsheet, slides, email builder, and vector design tool. Client-side only, nothing leaves your device.
 - 🧩 **[Raven Scope](https://github.com/tmanish/raven-scope)**: turns the WiFi you already have into live motion, presence, and through-wall radar. Zero extra hardware, zero dependencies beyond Python's standard library.
 - 🧩 **[Merlin Touchless Interface](https://github.com/tmanish/merlin-touchless-interface)**: control a screen with your eyes and a pinch. No mouse, no touch, no special hardware beyond a webcam.
