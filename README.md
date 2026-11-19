@@ -160,6 +160,29 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 </a>
 </td>
 </tr>
+<tr>
+<td width="60%">
+<h5>
+<img src="https://raw.githubusercontent.com/tmanish/localist-releases/main/assets/localist-icon.png" alt="" width="52" height="52"><br>
+<a href="https://github.com/tmanish/localist-releases">Localist</a>
+</h5>
+<p>Run AI models on your Mac and share them across your apps, with no account or subscription.</p>
+<ul>
+  <li>Ask questions from the menu bar or chat with images, PDFs, Word files, and text documents.</li>
+  <li>Connect coding apps for local chat, edits, and code completion.</li>
+  <li>Wake models on demand and free their memory when idle or when other apps need it.</li>
+</ul>
+<p><a href="https://github.com/tmanish/localist-releases/releases/latest">Download</a> · <a href="https://github.com/tmanish/localist-releases/blob/main/HELP.md">User guide</a></p>
+</td>
+<td width="40%">
+<a href="https://github.com/tmanish/localist-releases/blob/main/assets/localist-cockpit.png">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmanish/localist-releases/main/assets/localist-cockpit-dark.png">
+  <img src="https://raw.githubusercontent.com/tmanish/localist-releases/main/assets/localist-cockpit.png" alt="Localist Cockpit showing model memory, speed, heat, connected apps, and automatic actions" width="100%">
+</picture>
+</a>
+</td>
+</tr>
 </table>
 
 #### Web app
