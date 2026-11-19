@@ -95,8 +95,8 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 <td width="60%">
 <h5>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmanish/swift-edit-releases/main/assets/swiftedit-icon-dark.png">
-  <img src="https://raw.githubusercontent.com/tmanish/swift-edit-releases/main/assets/swiftedit-icon.png" alt="" width="65" height="65">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/products/swiftedit-icon-dark.png">
+  <img src="./assets/products/swiftedit-icon.png" alt="" width="65" height="65">
 </picture><br>
 <a href="https://github.com/tmanish/swift-edit-releases">SwiftEdit</a>
 </h5>
@@ -141,8 +141,8 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 <td width="60%">
 <h5>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmanish/base-iso-releases/main/assets/baseiso-icon-dark.png">
-  <img src="https://raw.githubusercontent.com/tmanish/base-iso-releases/main/assets/baseiso-icon.png" alt="" width="65" height="65">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/products/baseiso-icon-dark.png">
+  <img src="./assets/products/baseiso-icon.png" alt="" width="65" height="65">
 </picture><br>
 <a href="https://github.com/tmanish/base-iso-releases">BaseISO</a>
 </h5>
@@ -163,7 +163,7 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 <tr>
 <td width="60%">
 <h5>
-<img src="https://raw.githubusercontent.com/tmanish/localist-releases/main/assets/localist-icon.png" alt="" width="65" height="65"><br>
+<img src="./assets/products/localist-icon.png" alt="" width="65" height="65"><br>
 <a href="https://github.com/tmanish/localist-releases">Localist</a>
 </h5>
 <p>Run AI models on your Mac and share them across your apps, with no account or subscription.</p>
@@ -191,7 +191,7 @@ The interface uses agent lanes, live status, plain-language logs, and dense oper
 <tr>
 <td width="60%">
 <h5>
-<img src="./assets/products/raven-tracker-icon.png" alt="" width="65" height="65"><br>
+<img src="./assets/products/raven-tracker-icon.png" alt="" width="63" height="65"><br>
 <a href="https://raventracker.app">Raven Tracker</a>
 </h5>
 <p>Track Bitcoin, gold, silver, QQQ, and SPY with live charts and algorithmic signals.</p>
